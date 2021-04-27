@@ -1,6 +1,6 @@
 <?php 
 
-function connection() {  		// creates connection
+function connection() {
 	$config = json_decode(file_get_contents('config.php'), TRUE); //config[] includes db info: uname, pwd, host and dbname
 	if (is_null($config)) {
 		echo "Please first specify username, password and host for DB connection.";
