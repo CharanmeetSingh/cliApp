@@ -2,7 +2,7 @@
 *A PHP command-line application
 
 ## Requirements  
-*PHP > 7.2.0, configure environment variables to use php in the terminal.  
+*PHP >= 7.2.0, configure environment variables to use php in the terminal.  
 *Mysql DB support 
 
 ## usage
