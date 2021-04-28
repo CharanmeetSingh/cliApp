@@ -1,5 +1,5 @@
 # cliApp
-*A PHP command line CRUD application
+*A PHP command-line application
 
 ## Requirements  
 *PHP > 7.2.0, configure environment variables to use php in the terminal.  
